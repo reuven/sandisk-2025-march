@@ -1,0 +1,11 @@
+This file was added as an example of a properly formatted commit.
+
+The commit message that created this file follows the Conventional Commits
+specification with:
+- A clear type prefix (feat, fix, docs, etc.)
+- A concise subject line
+- A detailed body explaining the what and why
+- Proper formatting and line length
+
+This helps maintain a clean and readable git history that makes it easier
+to understand project changes over time.
